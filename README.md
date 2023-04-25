@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
-<h3 align="center">Senior Learner / Just a software Developer</h3>
+<h3 align="center">Senior Learner / Just a Mobile Developer</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
