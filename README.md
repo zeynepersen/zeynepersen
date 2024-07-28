@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zeynep Nazli</h1>
-<h3 align="center">Senior Learner / Just a Software Developer</h3>
 
 
 <p align="center">
