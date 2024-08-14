@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Tensorflow and Machine Learning**
 - 🌱 I’m currently learning **Deep Learning**
-- 👯 I’m looking to collaborate on **Artificial Intelligence Projects **
+- 👯 I’m looking to collaborate on **Artificial Intelligence Projects**
 - 📫 How to reach me **zeynepnazersen@gmail.com**
 
 <p align="center">
