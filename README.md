@@ -16,6 +16,7 @@
   <a href="https://twitter.com/znazlie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="znazlie" height="30" width="40" /></a>
   <a href="https://medium.com/@zeynepnazersen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zeynepnazersen" height="30" width="40" /></a>
 </p>
+https://bento.me/zeynepersen
 
 <p align="center">
   <h3>Languages and Tools:</h3>
