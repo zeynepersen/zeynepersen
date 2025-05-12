@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeynep Nazli </h1>
+<h1 align="center">Hi 👋, I'm Zeynep</h1>
 
 <h2 align="center">lifelong learner and just a software developer</h1>
 
