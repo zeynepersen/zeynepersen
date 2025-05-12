@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeynep Nazli </h1>
 
-<h2 align="center">lifetime learner and just a software developer</h1>
+<h2 align="center">lifelong learner and just a software developer</h1>
 
 <p align="center">
   <img width="300" height="300" src="https://github.com/zeynepersen/zeynepersen/assets/79331212/0937deef-b184-4b5f-b4e4-23d441c90ae5.gif">
